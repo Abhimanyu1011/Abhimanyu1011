@@ -1,5 +1,5 @@
 ### Hello guyzz
-Hey guys myself Abhimanyu A Hey guys myself Abhimanyu A
+Hey guys myself Abhimanyu A Hey guys myself Abhimanyu A.
 I am pursuing my BTech in Computer Science Engineering at College of Engineering Aranmula (AEC). 
 
 I love to develop my technical skills for empowering myself and to become more productive.
