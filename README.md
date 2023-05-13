@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello guyzz myself Abhimanyu A</h1>
-<h3 align="center">A passionate Computer Science engineer from India</h3>
+<h1 align="center">Hey guys Abhimanyu here..✌️</h1>
+<h3 align="center">A passionate Computer Science engineering student from India</h3>
 
 <p align="left"> <a href="https://twitter.com/@a_bhi_1012" target="blank"><img src="https://img.shields.io/twitter/follow/@a_bhi_1012?logo=twitter&style=for-the-badge" alt="@a_bhi_1012" /></a> </p>
 
