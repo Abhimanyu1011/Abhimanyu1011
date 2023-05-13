@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhimanyu1011.github.io/myportfolioabhi/](https://abhimanyu1011.github.io/myportfolioabhi/)
 
-- 💬 Ask me about **I'm basically a keralite and lives in Pandalam which is a beautiful little city in the heart of pathanamthitta**
+- 💬 About me : **I'm basically a keralite and lives in Pandalam which is a beautiful little city in the heart of pathanamthitta**
 
 - 📫 How to reach me **abhimanyuanilkumar2003@gmail.com**
 
