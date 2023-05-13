@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently pursuing my BTech in Computer science at **College of Engineering Aranmula**
 
-- 👨‍💻 All of my projects are available at [https://abhimanyu1011.github.io/myportfolioabhi/](https://abhimanyu1011.github.io/myportfolioabhi/)
+- 👨‍💻 All  of my projects are available at [https://abhimanyu1011.github.io/myportfolioabhi/](https://abhimanyu1011.github.io/myportfolioabhi/)
 
 - 💬 About me : **I'm basically a keralite and lives in Pandalam which is a beautiful little city in the heart of pathanamthitta**
 
