@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **java,phython,flutter**
 
-- 👨‍💻 Take a lokk at my personal website : [https://abhimanyu1011.github.io/myportfolioabhi/](https://abhimanyu1011.github.io/myportfolioabhi/)
+- 👨‍💻 Take a look at my personal website : [https://abhimanyu1011.github.io/myportfolioabhi/](https://abhimanyu1011.github.io/myportfolioabhi/)
 
 - 💬 About me : **I'm basically a keralite and lives in Pandalam which is a beautiful little city in the heart of pathanamthitta**
 
