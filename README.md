@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing my BTech in Computer science at **College of Engineering Aranmula**
 
-- 🌱 I’m currently learning **java,phython,flutter & I'm more enthusiast toward Cyber Security and Ethical Hacking**
+- 🌱 I’m currently learning **java,phython,flutter & I'm more enthusiast towards Cyber Security and Ethical Hacking**
 
 - 👨‍💻 Take a look at my personal website : [https://abhimanyu1011.github.io/myportfolioabhi/](https://abhimanyu1011.github.io/myportfolioabhi/)
 
