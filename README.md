@@ -5,6 +5,9 @@
 
 
 
+
+
+
 - 🔭 I’m currently pursuing my BTech in Computer science at **College of Engineering Aranmula**
 
 - 🌱 I’m currently learning **java,phython,flutter & I'm more enthusiast towards Cyber Security and Ethical Hacking**
@@ -16,7 +19,7 @@
 - 📫 How to reach me **abhimanyuanilkumar2003@gmail.com**
 
 
-- 
+ 
 ## Want 2 know more about m..?? Keep in contact..👇
 
 
@@ -38,12 +41,12 @@
 </a>  
   
   
-
-### Thanks for checking my profile..🖤  
+ 
   
 <br/>
 
 <h3 align="left">Languages and Tools that I use:</h3>
+
 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
@@ -72,3 +75,4 @@
 <br/>  
 
 
+### Thanks for checking my profile..🖤 
