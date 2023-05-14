@@ -1,9 +1,5 @@
-<h1 align="center">Hello guyz myself Abhimanyu A</h1>
-<h3 align="center">A passionate Computer Science engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyu1011&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu1011" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@a_bhi_1012" target="blank"><img src="https://img.shields.io/twitter/follow/@a_bhi_1012?logo=twitter&style=for-the-badge" alt="@a_bhi_1012" /></a> </p>
+<h1 align="center">Hello guyz Abhimanyu here..!!</h1>
+<h3 align="center">A passionate Computer Science engineering Student from India</h3>
 
 - 🔭 I’m currently pursuing my BTech in Computer science at **College of Engineering Aranmula**
 
@@ -14,9 +10,9 @@
 - 💬 About me : **I'm basically a keralite and lives in Pandalam which is a beautiful little city in the heart of pathanamthitta**
 
 - 📫 How to reach me **abhimanyuanilkumar2003@gmail.com**
+- 
 ## Keep in contact with mee..!!  
   
-
 <a href="https://github.com/Abhimanyu1011" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -34,12 +30,9 @@
 </a>  
   
 
-
-
 ### Thanks for checking my profile..🖤  
   
   
-
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
