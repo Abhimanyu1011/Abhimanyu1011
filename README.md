@@ -1,4 +1,4 @@
-<h1 align="center">Hello guyzz myself Abhimanyu A</h1>
+<h1 align="center">Hello guyz myself Abhimanyu A</h1>
 <h3 align="center">A passionate Computer Science engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyu1011&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu1011" /> </p>
