@@ -10,8 +10,12 @@
 - 💬 About me : **I'm basically a keralite and lives in Pandalam which is a beautiful little city in the heart of pathanamthitta**
 
 - 📫 How to reach me **abhimanyuanilkumar2003@gmail.com**
+
+
 - 
-## Keep in contact with mee..!!  
+## Want 2 know more about m..?? Keep in contact..👇
+
+
   
 <a href="https://github.com/Abhimanyu1011" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -29,8 +33,10 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
+  
 
 ### Thanks for checking my profile..🖤  
+  
   
   
 <br/>
