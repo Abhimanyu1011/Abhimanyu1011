@@ -51,4 +51,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhimanyu1011&show_icons=true&locale=en" alt="abhimanyu1011" /></p>
 
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Abhimanyu1011&&style=flat-square)  
+  
+
+<br/>  
+
 
