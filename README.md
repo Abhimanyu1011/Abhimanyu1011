@@ -1,5 +1,9 @@
 <h1 align="center">Hello guyz Abhimanyu here..!!</h1>
+
+
 <h3 align="center">A passionate Computer Science engineering Student from India</h3>
+
+
 
 - 🔭 I’m currently pursuing my BTech in Computer science at **College of Engineering Aranmula**
 
@@ -37,8 +41,7 @@
 
 ### Thanks for checking my profile..🖤  
   
-  
-  
+
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
