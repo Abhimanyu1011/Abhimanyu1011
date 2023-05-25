@@ -20,7 +20,7 @@
 
 
  
-## Want 2 know more about m..?? Keep in contact..👇
+## Want 2 know more about me..?? Keep in contact..👇
 
 
   
