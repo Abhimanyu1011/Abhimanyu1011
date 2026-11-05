@@ -1,14 +1,14 @@
-<h1 align="center">Hello guyz Abhimanyu here..!!</h1>
+<h1 align="center">Hello Abhimanyu here!</h1>
 
 
-<h3 align="center">A passionate Computer Science engineering Student from India</h3>
-
-
-
+<h3 align="center">A passionate Data Scientist and Cyber Security Enthusiast</h3>
 
 
 
-- 🔭 BTech in Computer science at **College of Engineering Aranmula**
+
+
+
+- 🔭 BTech in Computer Science and Engineering at **College of Engineering Aranmula**
 
 - 👨‍💻 Interested in Python, Data Science, AI&ML, Cyber Security and Ethical Hacking**
 
