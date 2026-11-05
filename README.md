@@ -8,40 +8,28 @@
 
 
 
-- 🔭 I’m currently pursuing my BTech in Computer science at **College of Engineering Aranmula**
+- 🔭 BTech in Computer science at **College of Engineering Aranmula**
 
-- 🌱 I’m currently learning **java,phython,flutter, Android development & I'm more enthusiast towards Cyber Security and Ethical Hacking**
-
-- 👨‍💻 Take a look at my personal website : [https://abhimanyu1011.github.io/myportfolioabhi/](https://abhimanyu1011.github.io/myportfolioabhi/)
-
-- 💬 About me : **I'm basically a keralite and lives in Pandalam which is a beautiful little city in the heart of pathanamthitta**
+- 👨‍💻 Interested in Python, Data Science, AI&ML, Cyber Security and Ethical Hacking**
 
 - 📫 How to reach me **abhimanyuanilkumar2003@gmail.com**
 
 
  
-## Want 2 know more about me..?? Keep in contact..👇
+## Keep in contact..👇
 
 
   
 <a href="https://github.com/Abhimanyu1011" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/a_bhi_1012" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/abhiiakr" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/Abhimanyu Anilkumar" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/_4.bhii_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
   
-  
- 
   
 <br/>
 
